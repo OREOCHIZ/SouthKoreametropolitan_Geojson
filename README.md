@@ -23,7 +23,7 @@ https://python-visualization.github.io/folium/quickstart.html 을 참고해 주�
 1. github의 전국 geojson 자료를 다운받아 주세요. (manual_1 사진 참고)
 
 
-<img src="manual_1.jpg" width="400px">
+<img src="manual_1.jpg" width="600px">
 
 
 2. jupyter 파일인 geojson_test_jupyter 를 실행해주세요. 
