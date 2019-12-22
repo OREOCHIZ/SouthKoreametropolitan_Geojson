@@ -29,4 +29,10 @@ https://python-visualization.github.io/folium/quickstart.html 을 참고해 주�
 2. jupyter 파일인 geojson_test_jupyter 를 실행해주세요. 
 들어가있는 geojson의 이름만 Busan, Daejeon 등으로 바꾸어서 사용하면 됩니다. (manual_2 사진 참고)
 
-<img src="manual_2.jpg" width="400px">
+<img src="manual_2.jpg" width="600px">
+
+#example
+
+저의 경우엔 대전의 json 자료를 이용해 다음과 같이 등치지역도를 그리는데 활용해 보았습니다.
+
+<img src="example_1.jpg" width="700px">
