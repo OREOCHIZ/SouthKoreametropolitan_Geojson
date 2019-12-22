@@ -9,8 +9,10 @@ geojson 자료를 만들었습니다. 처음이라 엉성한 자료이긴 하지
 =============
 # requirements
 
-  pip install json
-  pip install folium
+  pip install json<br>
+  pip install folium<br>
+  
+ <br> json 과 folium의 설치가 필요합니다.
   
 =============
   
@@ -21,13 +23,13 @@ folium 사용 방법 위주로 설명 드리겠습니다. folium의 자세한 �
 https://python-visualization.github.io/folium/quickstart.html 을 참고해 주세요.
 
 
-1. github의 전국 geojson 자료를 다운받아 주세요.
+1. github의 전국 geojson 자료를 다운받아 주세요. (manual_1 사진 참고)
 
 
-<img src="manual_1.png" width="400px">
+<img src="manual_1.jpg" width="400px">
 
 
-2. jupyter 파일에 들어있는 geojson_test_jupyter 를 실행해주세요. 
-들어가있는 geojson의 이름만 Busan, Daejeon 등으로 바꾸어서 사용하면 됩니다.
+2. jupyter 파일인 geojson_test_jupyter 를 실행해주세요. 
+들어가있는 geojson의 이름만 Busan, Daejeon 등으로 바꾸어서 사용하면 됩니다. (manual_2 사진 참고)
 
-<img src="manual_2.png" width="400px">
+<img src="manual_2.jpg" width="400px">
