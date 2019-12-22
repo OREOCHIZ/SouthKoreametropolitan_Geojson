@@ -1,6 +1,6 @@
 # southkorea_metropolitan_geojson
 
-개인적인 파이썬 프로젝트를 진행하면서, 서울과 전국단위로만 제공되지 않는 geojson 자료에 한계를 느꼈습니다.
+개인적인 파이썬 프로젝트를 진행하면서, 서울과 전국단위로만 제공되고 있는 geojson 자료에 한계를 느꼈습니다.
 그래서 Github에 올라와있는 southkorea-maps(https://github.com/southkorea/southkorea-maps)의 kostat 자료를 참고해 광역시 단위의
 geojson 자료를 만들었습니다. 처음이라 엉성한 자료이긴 하지만, 사용하실 분은 파이썬 folium 활용시나 다른 경우에 유용하게 사용해주셨음 좋겠습니다!
 
