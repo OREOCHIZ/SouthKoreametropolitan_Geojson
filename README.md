@@ -31,7 +31,7 @@ https://python-visualization.github.io/folium/quickstart.html 을 참고해 주�
 
 <img src="manual_2.jpg" width="600px">
 
-#example
+# example
 
 저의 경우엔 대전의 json 자료를 이용해 다음과 같이 등치지역도를 그리는데 활용해 보았습니다.
 
